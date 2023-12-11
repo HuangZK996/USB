@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.Management;
 using System.Text.RegularExpressions;
 using System.Windows.Forms;
-
+/// <summary>
+/// usb设备的连接与交互
+/// </summary>
 namespace USB
 {
 
@@ -40,7 +42,7 @@ namespace USB
                 {
                     list.Add(property.Name +"="+ property.Value);
                 }
-                list.Add("-------------------------------");
+                list.Add("-------------------------------======");
             }
             return list;
         }
