@@ -1,0 +1,10 @@
+E:\c\USB\USB\bin\Debug\USB.exe.config
+E:\c\USB\USB\bin\Debug\USB.exe
+E:\c\USB\USB\bin\Debug\USB.pdb
+E:\c\USB\USB\obj\Debug\USB.csproj.AssemblyReference.cache
+E:\c\USB\USB\obj\Debug\USB.Form1.resources
+E:\c\USB\USB\obj\Debug\USB.Properties.Resources.resources
+E:\c\USB\USB\obj\Debug\USB.csproj.GenerateResource.cache
+E:\c\USB\USB\obj\Debug\USB.csproj.CoreCompileInputs.cache
+E:\c\USB\USB\obj\Debug\USB.exe
+E:\c\USB\USB\obj\Debug\USB.pdb
